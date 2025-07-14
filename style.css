@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  background-color: #000;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+}
+    /* Button  */
+
+#soundToggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background: #111;
+  color: #0f0;
+  border: 2px solid #0f0;
+  padding: 10px 16px;
+  border-radius: 10px;
+  font-size: 16px;
+  font-family: sans-serif;
+  cursor: pointer;
+  z-index: 999;
+  transition: 0.3s;
+}
+
+#soundToggle:hover {
+  background: #0f0;
+  color: #000;
+}
