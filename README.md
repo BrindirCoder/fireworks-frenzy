@@ -2,8 +2,7 @@
 
 A stunning fireworks animation made using HTML, CSS, and JavaScript — complete with **sound effects** and a **modern toggle button** to control the sound.
 
-Live Demo 👉 [Check it out on CodePen](#)  
-*(replace with your live link once uploaded)*
+Live Demo 👉 [Check it out on CodePe   (https://codepen.io/alone-boye/pen/VYvLeJJ)loaded)*
 
 ---
 
